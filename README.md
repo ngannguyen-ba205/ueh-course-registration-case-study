@@ -63,10 +63,19 @@ This repository contains the following BA artifacts:
 - Validation Plan
 
 ## Repository Structure
-
 ```text
 01-discovery/
 02-requirements/
 03-solution-design/
 04-process-flows/
 05-validation/
+```
+## Portfolio
+
+For the full visual case study, see the project portfolio.
+
+## Tools
+
+- Excel
+- Figma
+- Draw.io
